@@ -3,9 +3,9 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/SeherKumsar/profiles-rest-api.git'
+PROJECT_GIT_URL='https://github.com/beyzanurelitok/profiles-rest-api1.git'
 
-PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+PROJECT_BASE_PATH='C:\Users\Beyza Nur\Course1\profiles-rest-api1'
 
 echo "Installing dependencies..."
 apt-get update
